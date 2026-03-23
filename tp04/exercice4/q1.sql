@@ -1,0 +1,1 @@
+CREATE TABLE etudiants AS SELECT * FROM PUBLIC.etudiants;
